@@ -1,37 +1,31 @@
 name: generate animation
 
 on:
-  # roda automaticamente todo dia à meia-noite (UTC)
   schedule:
+    # todos os dias à meia-noite UTC
     - cron: "0 0 * * *"
-
-  # permite rodar manualmente
   workflow_dispatch:
-
-  # roda quando fizer push no branch principal
   push:
     branches:
       - main
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      # gera a animação da cobrinha
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: MaduDev003
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # envia os arquivos gerados pro branch "output"
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
