@@ -63,8 +63,9 @@ const madu = {
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaduDev003/MaduDev003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaduDev003/MaduDev003/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/MaduDev003/MaduDev003/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://MaduDev003.github.io/MaduDev003/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://MaduDev003.github.io/MaduDev003/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://MaduDev003.github.io/MaduDev003/github-contribution-grid-snake.svg">
 </picture>
+
 
