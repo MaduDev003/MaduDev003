@@ -1,5 +1,5 @@
 
-<h1 align='center'>Maria Eduarda - Desenvolvedora Full-Stack</h1>
+<h1 align='center'>Desenvolvedora Full-Stack</h1>
 <p align='center'>
 </p>
 <br />
