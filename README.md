@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  React • Next.js • TypeScript • UI/UX •
+  React • Next.js • TypeScript • UI/UX 
 </p>
 
 ---
