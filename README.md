@@ -81,16 +81,11 @@ width="240"
 <sub><b>CSS3</b></sub>
 </td>
 
-<td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="48"/><br>
-<sub><b>Zustand</b></sub>
-</td>
-
 </tr>
 </table>
 
 
-### ⚙️ Back-end
+### Back-end
 
 <table>
 <tr align="center">
@@ -123,7 +118,7 @@ width="240"
 </tr>
 </table>
 
-### Ferramentas
+### Blibliotecas e Ferramentas
 
 <table>
 <tr align="center">
@@ -151,6 +146,11 @@ width="240"
 <td>
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
 <sub><b>VS Code</b></sub>
+</td>
+
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="48"/><br>
+<sub><b>Zustand</b></sub>
 </td>
 
 </tr>
