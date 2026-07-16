@@ -89,6 +89,39 @@ width="240"
 </tr>
 </table>
 
+### Ferramentas
+
+<table>
+<tr align="center">
+
+<td>
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+<sub><b>Docker</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>
+<sub><b>Figma</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+</tr>
+</table>
+
 
 ###  Back-end
 
@@ -154,38 +187,7 @@ width="240"
 </table>
 
 
-### Ferramentas
 
-<table>
-<tr align="center">
-
-<td>
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-<sub><b>Git</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
-<sub><b>GitHub</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
-<sub><b>Docker</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>
-<sub><b>Figma</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-<sub><b>VS Code</b></sub>
-</td>
-
-</tr>
-</table>
 
 ## Contato
 
