@@ -25,7 +25,7 @@ Minha trajetória começou como Desenvolvedora de Software Jr., onde atuei por q
 
 Hoje, direciono minha carreira para o Front-End, construindo aplicações escaláveis, organizadas e de fácil manutenção.
 
-Além da programação, gosto de desenhar e estou sempre estudando novas tecnologias e boas práticas para evoluir como desenvolvedora.
+Além da programação, gosto de desenhar,conhecer lugares novos, ver filmes e cuidar dos meus bichinhos <3.
 
 </td>
 
