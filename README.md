@@ -89,6 +89,40 @@ width="240"
 </tr>
 </table>
 
+
+### ⚙️ Back-end
+
+<table>
+<tr align="center">
+
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
+<sub><b>Node.js</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
+<sub><b>Express</b></sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=prisma" width="48"/><br>
+<sub><b>Prisma</b></sub>
+</td>
+
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq" width="48"/><br>
+<sub><b>RabbitMQ</b></sub>
+</td>
+
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="48"/><br>
+<sub><b>Azure Service Bus</b></sub>
+</td>
+
+</tr>
+</table>
+
 ### Ferramentas
 
 <table>
@@ -121,32 +155,6 @@ width="240"
 
 </tr>
 </table>
-
-
-###  Back-end
-
-<table>
-<tr align="center">
-
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
-<sub><b>Node.js</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
-<sub><b>Express</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=prisma" width="48"/><br>
-<sub><b>Prisma</b></sub>
-</td>
-
-</tr>
-</table>
-
-
 
 ### Banco de Dados
 
