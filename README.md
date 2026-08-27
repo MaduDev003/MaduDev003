@@ -1,11 +1,11 @@
 <h1 align="center">Madu Schwarz</h1>
 
 <h3 align="center">
-   Engenheira de Software Front-End
+   Front-End Software Engineer
 </h3>
 
 <p align="center">
-  React • Next.js • TypeScript • UI/UX 
+  React • Next.js • TypeScript • UI/UX
 </p>
 
 ---
@@ -15,17 +15,17 @@
 
 <td width="65%" valign="top">
 
-## Sobre mim
+## About Me
 
-Atualmente, concentro minha carreira em Engenharia de Software com foco em Front-End.
+Currently, I’m focusing my career on Software Engineering with a strong focus on Front-End development.
 
-Gosto de desenvolver interfaces que unem **UI/UX, acessibilidade e performance**, sempre buscando criar experiências intuitivas para o usuário.
+I enjoy building interfaces that combine UI/UX, accessibility, and performance, always aiming to create intuitive and engaging user experiences.
 
-Minha trajetória começou como Desenvolvedora de Software Jr., onde atuei por quase três anos e tive experiências tanto no Back-End quanto no Front-End. Essa vivência ampliou minha visão sobre arquitetura, colaboração entre camadas da aplicação e desenvolvimento de software.
+My career started as a Junior Software Developer, where I worked for nearly three years and gained experience across both Back-End and Front-End development. This experience broadened my understanding of software architecture, collaboration across application layers, and the software development lifecycle.
 
-Hoje, direciono minha carreira para o Front-End, construindo aplicações escaláveis, organizadas e de fácil manutenção.
+Today, I’m focusing my career on Front-End development, building scalable, well-structured, and maintainable applications.
 
-Além da programação, gosto de desenhar,conhecer lugares novos, ver filmes e cuidar dos meus bichinhos <3.
+Beyond coding, I enjoy drawing, exploring new places, watching movies, and taking care of my pets <3.
 
 </td>
 
@@ -43,10 +43,9 @@ width="240"
 
 ---
 
+## Technologies
 
-## Tecnologias
-
-### Front-end
+### Front-End
 
 <table>
 <tr align="center">
@@ -84,8 +83,7 @@ width="240"
 </tr>
 </table>
 
-
-### Back-end
+### Back-End
 
 <table>
 <tr align="center">
@@ -118,7 +116,7 @@ width="240"
 </tr>
 </table>
 
-### Blibliotecas e Ferramentas
+### Libraries & Tools
 
 <table>
 <tr align="center">
@@ -156,7 +154,7 @@ width="240"
 </tr>
 </table>
 
-### Banco de Dados
+### Databases
 
 <table>
 <tr align="center">
@@ -174,9 +172,7 @@ width="240"
 </tr>
 </table>
 
-
-
-### Testes
+### Testing
 
 <table>
 <tr align="center">
@@ -194,15 +190,14 @@ width="240"
 </tr>
 </table>
 
+---
 
-
-
-## Contato
+## Contact
 
 <p align="center">
 
 <a href="mailto:mariaschwarzdev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maria-eduarda-marinho-schwarz-186ba2232">
@@ -212,6 +207,7 @@ width="240"
 </p>
 
 ---
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://MaduDev003.github.io/MaduDev003/github-contribution-grid-snake-dark.svg">
