@@ -1,5 +1,3 @@
-# 🇧🇷 PT-BR
-
 <h1 align="center">Madu Schwarz</h1>
 
 <h3 align="center">
